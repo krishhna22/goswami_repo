@@ -15,8 +15,9 @@
 
 ## 📂 Featured Projects  
 - [DSA-Practice](https://github.com/your-username/DSA-Practice) – Collection of solved problems topic-wise  
-- [PetCare-Assistant](https://github.com/your-username/PetCare-Assistant) – College project on pet care solutions
-- [Emotion-Detection](https://github.com/your-username/Emotion-Detection) – College project on Emotion-Detection
+- [Telecom-feedback-analysis-system]([[https://github.com/your-username/PetCare-Assistant](https://github.com/krishhna22/telecom-feedback-analysis-system](https://github.com/krishhna22/telecom-feedback-analysis-system)) – Project on Telecom services.
+- [Emotion-Detection]([https://github.com/your-username/Emotion-Detection](https://github.com/krishhna22/Emotion-Detection-Using-CNN)) – College project on Emotion-Detection
+-  [Driver-Drowsiness-Detection]([[https://github.com/your-username/Emotion-Detection](https://github.com/krishhna22/Emotion-Detection-Using-CNN](https://github.com/krishhna22/Driver-Drowsiness-Detection)) – project on Driver Drowsiness Detection.
 - [Portfolio-Website](https://github.com/your-username/Portfolio-Website) – Personal portfolio built with HTML, CSS, JS  
 
 ---
