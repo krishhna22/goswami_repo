@@ -15,12 +15,14 @@
 
 ## 📂 Featured Projects  
 - [DSA-Practice](https://github.com/your-username/DSA-Practice) – Collection of solved problems topic-wise  
-- [Telecom-feedback-analysis-system]([[https://github.com/your-username/PetCare-Assistant](https://github.com/krishhna22/telecom-feedback-analysis-system](https://github.com/krishhna22/telecom-feedback-analysis-system)) – Project on Telecom services.
-- [Emotion-Detection]([https://github.com/your-username/Emotion-Detection](https://github.com/krishhna22/Emotion-Detection-Using-CNN)) – College project on Emotion-Detection
--  [Driver-Drowsiness-Detection]([[https://github.com/your-username/Emotion-Detection](https://github.com/krishhna22/Emotion-Detection-Using-CNN](https://github.com/krishhna22/Driver-Drowsiness-Detection)) – project on Driver Drowsiness Detection.
-- [Portfolio-Website](https://github.com/your-username/Portfolio-Website) – Personal portfolio built with HTML, CSS, JS  
 
----
+- [Telecom Feedback Analysis System](https://github.com/krishhna22/telecom-feedback-analysis-system) – Project on telecom services  
+
+- [Emotion Detection Using CNN](https://github.com/krishhna22/Emotion-Detection-Using-CNN) – College project on emotion detection  
+
+- [Driver Drowsiness Detection](https://github.com/krishhna22/Driver-Drowsiness-Detection) – Real-time drowsiness detection system using OpenCV and dlib  
+
+- [Portfolio Website](https://github.com/your-username/Portfolio-Website) – Personal portfolio built with HTML, CSS, JS  
 
 ## 📊 GitHub Stats  
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
